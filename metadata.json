@@ -1,0 +1,8 @@
+
+{
+  "name": "Ariev XD",
+  "description": "A charming mini notebook app featuring pencil-style handwriting and automated tally marks for tracking counts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
